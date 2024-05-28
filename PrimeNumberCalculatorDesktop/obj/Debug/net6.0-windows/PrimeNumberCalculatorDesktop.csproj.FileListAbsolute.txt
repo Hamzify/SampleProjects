@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\bin\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.exe
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\bin\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.deps.json
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\bin\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.runtimeconfig.json
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\bin\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.dll
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\bin\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.pdb
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.Form1.resources
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.AssemblyInfo.cs
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.dll
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\refint\PrimeNumberCalculatorDesktop.dll
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.pdb
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\PrimeNumberCalculatorDesktop.genruntimeconfig.cache
+C:\Users\admin\source\repos\PrimeNumberCalculatorDesktop\obj\Debug\net6.0-windows\ref\PrimeNumberCalculatorDesktop.dll
